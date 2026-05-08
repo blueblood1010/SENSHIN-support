@@ -43,7 +43,7 @@ SENSHIN（専心）は、スマートフォンを**裏返して机に置く**と
 
 ご質問、不具合の報告、ご要望などがございましたら、以下のメールアドレスまでお気軽にご連絡ください。
 
-📧 **[blueblood1010@gmail.com](mailto:blueblood1010@gmail.com)**
+📧 **[bb.singleminded@gmail.com](mailto:bb.singleminded@gmail.com)**
 
 ---
 
